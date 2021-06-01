@@ -1,8 +1,3 @@
-# cogs109_finalproject_2021
-Codes for the final project of COGS109, Spring 2021.
-
-Dataset Information:
-
 1. Title: Letter Image Recognition Data 
 
 2. Source Information
@@ -65,4 +60,3 @@ Dataset Information:
  	734 H	   755 I     747 J     739 K	 761 L	   792 M     783 N
  	753 O	   803 P     783 Q     758 R	 748 S	   796 T     813 U
  	764 V	   752 W     787 X     786 Y	 734 Z
-
